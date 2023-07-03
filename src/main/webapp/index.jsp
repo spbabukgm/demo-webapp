@@ -6,6 +6,7 @@
   <h4>DevOps</h4>
   <h4>Phython</h4>
   <h4>Linux</h4>
+  <h4>Windows</h4>
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Training Schedules</a>
 </body>
 </html>
