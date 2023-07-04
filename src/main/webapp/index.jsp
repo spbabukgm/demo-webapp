@@ -7,6 +7,6 @@
   <h4>Python</h4>
   <h4>Linux</h4>
   <h4>Windows</h4>
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Training Schedules</a>
+<a href="http://43.205.229.219:2020/Jenkins-Tomcate/">Click Here To See Webpage again</a>
 </body>
 </html>
